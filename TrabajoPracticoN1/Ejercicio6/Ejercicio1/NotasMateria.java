@@ -1,4 +1,4 @@
-package Ejercicio1;
+package TrabajoPracticoN1.Ejercicio6.Ejercicio1;
 import java.util.Scanner;
 public class NotasMateria {
     public static void main(String[] args) {

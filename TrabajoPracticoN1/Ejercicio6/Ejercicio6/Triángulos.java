@@ -1,4 +1,4 @@
-package Ejercicio6;
+package TrabajoPracticoN1.Ejercicio6.Ejercicio6;
 
 import java.util.Scanner;
 
